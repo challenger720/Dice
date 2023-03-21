@@ -1,0 +1,29 @@
+body {
+    background-color: #393E46;
+}
+
+h1{
+    font-family: lobster;
+    font-size: 6rem;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    color: #4ECCA3;
+}
+
+.dice {
+    font-family: indie flower;
+    font-size: 2rem;
+    display: inline-block;
+}
+
+.img1{
+    width: 80%;
+}
+
+.img2{
+    width: 80%;
+}
